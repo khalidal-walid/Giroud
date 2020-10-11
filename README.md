@@ -19,7 +19,13 @@ During this match, Giroud listed in starting squad but with France B team. The r
 ![Denmark](./Output/vsDenmark.jpg)
 ![Argentina](./Output/vsArgentina.jpg)
 ![Uruguay](./Output/vsUruguay.jpg)
+
+In this match, Giroud was asked to drop deep in midfield area to nullify Belgium's attack based on Deschamps. I think that's why compared to previous match, Giroud was positioned to stay low than receive more ball from teammates. 
+
 ![Belgium](./Output/vsBelgium.jpg)
+
+I think the stat in this match shown the same tactical used for Giroud. Despite that, he clearly more involved in one side area. 
+
 ![Croatia](./Output/vsCroatia.jpg)
 
 ### Data from
